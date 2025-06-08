@@ -16,7 +16,7 @@ import java.util.Optional;
  * ImageStorage<Integer> imageStorage = new OrdinalImageStorage(chess.game.PuzzleState.class,
  *     "none.png",
  *     "white_knight.png",
- *     "black_knight.png",
+ *     "black_knight.png"
  * );
  * }
  * The code will search for {@code none.png}, {@code white_knight.png}, and
