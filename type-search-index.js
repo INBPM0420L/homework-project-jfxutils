@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"jfxutils.images","l":"EnumImageStorage"},{"p":"jfxutils.images","l":"ImageStorage"},{"p":"jfxutils","l":"JFXTwoPhaseMoveSelector"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"jfxutils.images","l":"EnumImageStorage"},{"p":"jfxutils.images","l":"ImageStorage"},{"p":"jfxutils","l":"JFXTwoPhaseMoveSelector"},{"p":"jfxutils.images","l":"OrdinalImageStorage"}];updateSearchResults();
